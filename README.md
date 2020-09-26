@@ -1,4 +1,4 @@
-# Machine Elements calc
+# Design and Optimization of Mechanical Screw Jack
 
 TODO:
 
