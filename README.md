@@ -1,5 +1,7 @@
 # Design and Optimization of Mechanical Screw Jack
 
+Check the Wiki...
+
 TODO:
 
 1.	Telescopic jack calculations
