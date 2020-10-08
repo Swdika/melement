@@ -1,0 +1,9 @@
+
+#ignore dataset images
+tabl/
+
+#ignore images
+.png
+.jpeg
+.jpg
+
