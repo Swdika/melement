@@ -1,0 +1,23 @@
+
+
+1
+	Implementation of the basic calculations
+2
+	Set a database (material standards ,friction coefficients,scraw diamaters...)
+3
+	Design minimalistic GUI
+4
+	Draw the parts as parametric template
+5.1
+	Implement the optimization algorithm
+5.2
+	Implement the parametrization using Autolisp
+6
+	Implement the VB script for Inventor
+		-3D modeling
+		-part assembly
+		-Finite Element Methods
+7
+	Implement PDF generator (human readable calculations + draws)
+8
+	
