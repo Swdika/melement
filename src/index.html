@@ -19,9 +19,12 @@
         <div class="card-header">Melement UI</div>
         <div class="card-body">
           <h5 class="card-title">Input parameters</h5>
-
-          <label for="diameter">Diamater</label>
-          <input type="text" id="diameter" placeholder="Please give the diameter">
+          <label for="qmax">Qmax</label>
+          <input type="text" id="qmax" placeholder="Qmax[N]">
+          <label for="hmax">Hmax</label>
+          <input type="text" id="hmax" placeholder="Hmax[mm]">
+          <label for="material">Material</label>
+          <input type="text" id="material" placeholder="STAS name">
           <hr>
           <button class="btn btn-success" id="calculate-button">Calculate</button>
         </div>
@@ -31,14 +34,17 @@
       <div class="card bg-light">
         <div class="card-header">Calculated values</div>
         <div class="card-body">
-          Diameter is: <div id="test-diameter"></div>
-          Radius is: <div id="test-radius"></div>
+          Selected Material: <div id= "materialsumm"></div>
+          Qmax is: <div id="test-qmax"></div>
+          Minimum diameter is: <div id="test-diameter"></div>
+          <div id="test-more"></div>
         </div>
       </div>
     </div>
   </div>
 </div>
 
+<script src="math.js" type="text/javascript"></script>
 <script src="./renderer.js"></script>
 </body>
 </html>
