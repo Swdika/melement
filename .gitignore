@@ -1,9 +1,6 @@
 
-#ignore dataset images
-tabl/
-
 #ignore images
-.png
-.jpeg
-.jpg
+/tabl/*.png
+/tabl/*.jpeg
+/tabl/*.jpg
 
